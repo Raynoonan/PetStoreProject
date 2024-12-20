@@ -1,0 +1,8 @@
+{
+"petStoreName": "Ray's pet store",
+"petStoreAdress" : "16 frank St",
+"petStoreCity" : "RedBank",
+"petStoreState" : "New Jersey ", 
+"petStoreZip" : "07780",
+"petStorePhone" : "673-805-123 "
+}
