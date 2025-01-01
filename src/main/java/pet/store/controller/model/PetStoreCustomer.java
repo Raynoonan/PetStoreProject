@@ -17,7 +17,7 @@ public class PetStoreCustomer {
   
   private Set<PetStore> petStores = new HashSet<>();
   
-  PetStoreCustomer(Object Customer){
+  public PetStoreCustomer(Object Customer){
    
   }
 }

@@ -16,7 +16,7 @@ public class PetStoreEmployee {
   
   private PetStore petStore;
   
-  PetStoreEmployee(Object Employee){
+  public PetStoreEmployee(Object Employee){
     
   }
 }
